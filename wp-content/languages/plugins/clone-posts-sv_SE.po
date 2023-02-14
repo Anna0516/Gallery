@@ -1,0 +1,56 @@
+# Translation of Plugins - Clone Posts - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Clone Posts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-10-23 10:30:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Clone Posts - Stable (latest release)\n"
+
+#: admin/class-clone-posts-admin.php:473
+msgid " - Clone"
+msgstr " – klona"
+
+#. translators: %s is the number of clomned posts.
+#: admin/class-clone-posts-admin.php:363
+msgid "%s Post cloned."
+msgid_plural "%s posts cloned."
+msgstr[0] "%s  inlägg klonat."
+msgstr[1] "%s inlägg klonade."
+
+#: admin/class-clone-posts-admin.php:304 admin/class-clone-posts-admin.php:438
+msgid "Error cloning post."
+msgstr "Fel vid kloning av inlägg."
+
+#: admin/class-clone-posts-admin.php:300 admin/class-clone-posts-admin.php:434
+msgid "You are not allowed to clone this post."
+msgstr "Du har inte behörighet att klona detta inlägg."
+
+#: admin/class-clone-posts-admin.php:247 admin/class-clone-posts-admin.php:248
+#: admin/class-clone-posts-admin.php:415
+msgid "Clone"
+msgstr "Klona"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/pattihis/"
+msgstr "https://profiles.wordpress.org/pattihis/"
+
+#. Author of the plugin
+msgid "George Pattihis"
+msgstr "George Pattihis"
+
+#. Description of the plugin
+msgid "Easily clone (duplicate) Posts, Pages and Custom Post Types, including their custom fields (post_meta)."
+msgstr "Klona enkelt (duplicera) inlägg, sidor och anpassade inläggstyper, inklusive deras anpassade fält (post_meta)."
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/clone-posts/"
+msgstr "http://wordpress.org/extend/plugins/clone-posts/"
+
+#. Plugin Name of the plugin
+msgid "Clone Posts"
+msgstr "Clone Posts"
